@@ -1,0 +1,6 @@
+com/rebell/alliance/intelligence/LocationServiceTest.java
+ com.rebell.alliance.intelligence.LocationServiceTest
+com/rebell/alliance/intelligence/CommunicationApplicationTests.java
+ com.rebell.alliance.intelligence.CommunicationApplicationTests
+com/rebell/alliance/intelligence/MessageServiceTest.java
+ com.rebell.alliance.intelligence.MessageServiceTest
